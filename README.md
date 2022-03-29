@@ -1,13 +1,15 @@
 ### Hi there 👋
-=
+--
 
-:large_blue_diamond: I'm a systems engineering student at UTN.
-:large_blue_diamond: I am learning and creating some things with nodejs, angular and also python.
+:large_blue_diamond: I'm a systems engineering student at UTN.  
+:large_blue_diamond: I am learning and creating some things with nodejs, angular and also python.  
 :large_blue_diamond: I like graphic design and I use photoshop for editing.
 
-###Contact Me :inbox_tray:
+####Contact Me :inbox_tray: ####
 
-![Link a twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fnicofierro1)
+![Link a twitter](https://img.shields.io/twitter/follow/nicofierro1?style=social)
+
+https://img.shields.io/twitter/follow/nicofierro1?style=social
 <!--
 **nicolasf96/nicolasf96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
