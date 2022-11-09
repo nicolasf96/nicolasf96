@@ -2,6 +2,7 @@
 
 
 :large_blue_diamond: I'm a systems engineering student at UTN.   
+:large_blue_diamond: I'm interested in Data Science.   
 :large_blue_diamond: I am learning and creating some things with nodejs, angular and also python.   
 :large_blue_diamond: I like graphic design and I use photoshop for editing. 
 
